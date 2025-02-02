@@ -1,1 +1,1 @@
-gonna take my best shot at creating a calculator webpage that implements all of the knowledge i have thusfar gained. wish me luck
+Forked repo from github user mrbuddh4 for The Odin Project calculator project. To be used as a reference and for testing functionality.
